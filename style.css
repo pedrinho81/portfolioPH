@@ -1,0 +1,79 @@
+/* BODY1 */
+body {
+    background: url(./img/backAboutMe.jpg)
+}
+#navbarDarkDropdownMenuLink{
+    margin-left: 10vw;
+}
+.dropdown-menu{
+    margin-left: 13vw;
+}
+#navBackground {
+    background-image: linear-gradient(grey, 66%, #111032)
+}
+#aboutMe {
+    padding-bottom: 1rem;
+}
+
+
+#profilePic {
+    max-width: 70%;
+    border-radius: 50%;
+}
+
+.titles {
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+#pAboutMe {
+ font-family: 'EB Garamond', serif;
+   color: whitesmoke;
+}
+section#aboutMe{
+    padding-top: 1rem;
+    
+}
+/* #aboutMe{
+    
+} */
+/* BODY2 */
+#projects {
+    padding-top: 1rem;
+   
+    color: white;
+
+}
+.card-title {
+    margin-left: 40%;
+}
+
+.border-5 {
+    border-radius: 3%;
+}
+.pCard{
+    font-size: 25px;
+   font-weight:900;
+    color: black;
+    font-family: 'Andada Pro', serif;
+    
+}
+#projects h1 {
+    font-family: "Lobster", cursive;
+}
+#btnDownload {
+    text-transform: none;
+}
+/* FIMBODY2 */
+#contatoTitle {
+    margin-left:30vw;
+    font-family: "Lobster", cursive;
+    color: wheat;
+    font-size: 50px;
+}
+h4{
+    color: white;
+}
+
+#rowFooter {
+    margin-left: 4vw;
+}
